@@ -5,5 +5,5 @@ applications:
   path: .
   buildpack: https://github.com/cloudfoundry/php-buildpack
   services:
-  - mysql-db
+  - mysql-demo
   
